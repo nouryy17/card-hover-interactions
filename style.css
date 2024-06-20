@@ -7,11 +7,12 @@
 }
 .page-content{
     display: flex;
-    gap: 4%;
+   
     flex-wrap: wrap;
 }
 .card{
-  flex-basis: 22%;
+  width: 270px;
+  margin: 20px auto;
   text-align: center;
   box-shadow: 4px 4px 4px 4px #f4f4f4;
   border-radius: 4px;
